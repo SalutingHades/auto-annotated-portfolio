@@ -10,4 +10,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections: []
+metaDescription: 'This is lilypad corp :)'
 ---
