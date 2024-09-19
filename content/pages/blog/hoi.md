@@ -7,7 +7,6 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/logo2.svg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
