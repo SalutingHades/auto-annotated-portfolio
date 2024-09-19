@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Lilypadcorp
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
