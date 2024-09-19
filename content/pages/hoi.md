@@ -7,9 +7,8 @@ sections:
     variant: variant-a
     title: HOI
     subtitle: hmmm
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      THis is lilypad co (c) 2024
     elementId: ''
     styles:
       self:
