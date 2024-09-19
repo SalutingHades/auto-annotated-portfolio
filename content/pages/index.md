@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Lilypadcorp
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/logo2.svg
