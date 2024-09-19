@@ -12,5 +12,5 @@ backgroundImage:
 sections: []
 metaDescription: 'This is lilypad corp :)'
 metaTitle: Hmmm
-addTitleSuffix: true
+addTitleSuffix: false
 ---
