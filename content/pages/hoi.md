@@ -36,4 +36,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 80
+metaDescription: 'this is uhh '
 ---
