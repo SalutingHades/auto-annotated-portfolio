@@ -3,7 +3,7 @@ type: PageLayout
 title: Lilypadcorp
 sections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-b
     variant: variant-a
     title: HOI
     subtitle: hmmm
