@@ -7,9 +7,8 @@ sections:
     variant: variant-a
     title: Lilypadcorp!!!!
     subtitle: 'NEWS: lilypadcorp has moved from canva to netlify!'
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      hoi
     elementId: ''
     styles:
       self:
