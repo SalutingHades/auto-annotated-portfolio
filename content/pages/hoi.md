@@ -1,15 +1,14 @@
 ---
 type: PageLayout
-title: Lilypadcorp
+title: lilypond
 sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: This in an empty page
-    subtitle: The section subtitle
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    title: Lilypadcorp!!!!
+    subtitle: 'NEWS: lilypadcorp has moved from canva to netlify!'
+    text: |
+      hoi
     elementId: ''
     styles:
       self:
@@ -36,5 +35,4 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 80
-metaDescription: 'this is uhh '
 ---
